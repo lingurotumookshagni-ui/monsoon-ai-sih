@@ -1,0 +1,35 @@
+# MonsoonAI backend dependencies
+#
+# Tested on Python 3.12 (recommended). Every pin below has a pre-built binary
+# wheel for CPython 3.12 on Windows, macOS and Linux, so `pip install` never
+# compiles pandas or numpy from source and Visual Studio Build Tools are NOT
+# required.
+#
+# Python 3.13/3.14 are NOT recommended yet: several scientific wheels lag behind
+# new CPython releases, and pip then falls back to building from source, which
+# is exactly what produces the
+#   "metadata-generation-failed" / Meson / vswhere.exe
+# errors. Create the environment with Python 3.12:
+#
+#   py -3.12 -m venv venv          (Windows)
+#   python3.12 -m venv venv        (macOS/Linux)
+#
+# No database driver is required anywhere: this project uses local files only.
+
+fastapi>=0.115,<0.116
+uvicorn[standard]>=0.32,<0.35
+python-multipart>=0.0.17,<0.1
+pydantic>=2.9,<3
+
+numpy>=1.26,<3
+pandas>=2.2,<3
+scikit-learn>=1.5,<2
+joblib>=1.4,<2
+
+# Testing
+pytest>=8.3,<9
+httpx>=0.27,<0.29
+
+# Optional accelerator. The project works fully without it; the training
+# pipeline uses scikit-learn's HistGradientBoostingRegressor when it is absent.
+# xgboost>=2.1,<4

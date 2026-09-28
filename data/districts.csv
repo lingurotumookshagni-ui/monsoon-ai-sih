@@ -1,0 +1,77 @@
+district,state,latitude,longitude,elevation,distance_from_coast
+Kasaragod,Kerala,12.50,74.99,20,5
+Kannur,Kerala,11.87,75.37,15,4
+Kozhikode,Kerala,11.25,75.78,10,3
+Wayanad,Kerala,11.69,76.13,780,55
+Malappuram,Kerala,11.05,76.07,50,25
+Palakkad,Kerala,10.78,76.65,90,60
+Thrissur,Kerala,10.52,76.21,30,20
+Ernakulam,Kerala,9.98,76.28,8,5
+Idukki,Kerala,9.85,76.97,1100,75
+Alappuzha,Kerala,9.49,76.33,3,2
+Kottayam,Kerala,9.59,76.52,15,18
+Pathanamthitta,Kerala,9.26,76.78,120,35
+Thiruvananthapuram,Kerala,8.52,76.94,10,4
+Chennai,Tamil Nadu,13.08,80.27,7,2
+Coimbatore,Tamil Nadu,11.02,76.96,420,95
+Nilgiris,Tamil Nadu,11.41,76.70,2200,80
+Madurai,Tamil Nadu,9.93,78.12,140,120
+Tirunelveli,Tamil Nadu,8.71,77.76,50,55
+Thanjavur,Tamil Nadu,10.79,79.14,60,45
+Cuddalore,Tamil Nadu,11.75,79.77,10,3
+Udupi,Karnataka,13.34,74.75,25,4
+Dakshina Kannada,Karnataka,12.87,74.88,22,5
+Uttara Kannada,Karnataka,14.80,74.13,60,8
+Chikkamagaluru,Karnataka,13.32,75.77,980,70
+Kodagu,Karnataka,12.42,75.74,1150,80
+Shivamogga,Karnataka,13.93,75.57,570,90
+Bengaluru Urban,Karnataka,12.97,77.59,910,180
+Belagavi,Karnataka,15.85,74.50,750,110
+Mumbai Suburban,Maharashtra,19.13,72.90,14,3
+Thane,Maharashtra,19.22,72.98,20,12
+Raigad,Maharashtra,18.52,73.18,30,10
+Ratnagiri,Maharashtra,16.99,73.31,25,4
+Pune,Maharashtra,18.52,73.86,560,90
+Satara,Maharashtra,17.69,74.00,740,95
+Nashik,Maharashtra,19.99,73.79,700,120
+Nagpur,Maharashtra,21.15,79.09,310,620
+Kolhapur,Maharashtra,16.70,74.24,550,85
+Puri,Odisha,19.81,85.83,6,3
+Khordha,Odisha,20.18,85.62,45,35
+Ganjam,Odisha,19.39,84.79,25,12
+Balasore,Odisha,21.49,86.93,15,12
+Sundargarh,Odisha,22.12,84.03,240,320
+Kolkata,West Bengal,22.57,88.36,9,60
+South 24 Parganas,West Bengal,22.13,88.40,6,15
+Darjeeling,West Bengal,27.04,88.26,2050,550
+Jalpaiguri,West Bengal,26.52,88.72,85,480
+Purba Medinipur,West Bengal,21.93,87.79,8,6
+Kamrup Metropolitan,Assam,26.14,91.74,55,520
+Dibrugarh,Assam,27.47,94.91,105,720
+Cachar,Assam,24.83,92.78,30,280
+Barpeta,Assam,26.32,91.00,40,560
+Visakhapatnam,Andhra Pradesh,17.69,83.22,45,4
+East Godavari,Andhra Pradesh,17.00,81.80,20,25
+Krishna,Andhra Pradesh,16.51,80.62,25,50
+Nellore,Andhra Pradesh,14.44,79.99,20,18
+Anantapur,Andhra Pradesh,14.68,77.60,350,270
+Hyderabad,Telangana,17.39,78.49,540,290
+Warangal,Telangana,17.98,79.59,270,300
+Adilabad,Telangana,19.67,78.53,260,420
+Ahmedabad,Gujarat,23.02,72.57,55,90
+Surat,Gujarat,21.17,72.83,13,20
+Rajkot,Gujarat,22.30,70.80,130,75
+Kutch,Gujarat,23.24,69.67,90,40
+Valsad,Gujarat,20.61,72.93,12,10
+Jaipur,Rajasthan,26.91,75.79,430,560
+Jodhpur,Rajasthan,26.24,73.02,230,380
+Udaipur,Rajasthan,24.58,73.68,600,330
+Barmer,Rajasthan,25.75,71.39,150,230
+Dehradun,Uttarakhand,30.32,78.03,640,850
+Nainital,Uttarakhand,29.38,79.45,1940,780
+Chamoli,Uttarakhand,30.42,79.33,1450,900
+Pithoragarh,Uttarakhand,29.58,80.22,1620,790
+Shimla,Himachal Pradesh,31.10,77.17,2200,900
+Kangra,Himachal Pradesh,32.10,76.27,1450,880
+Kullu,Himachal Pradesh,31.96,77.11,1280,930
+Lahaul and Spiti,Himachal Pradesh,32.57,77.03,3350,960
